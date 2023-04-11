@@ -2,6 +2,9 @@
 
 ## Insert text
 
+for text insert yuo should do (*). For example: *privet\*
+Bould : **Bold**
+
 ## Lists
 
 ## Link
