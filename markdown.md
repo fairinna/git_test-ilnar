@@ -10,6 +10,10 @@ or (**) : **Here there**
 Alternative insert text to use together:
 **_Exemple_\_\_
 
+## Images
+
+![this is cactus](cuctus.jpg)
+
 ## Lists
 
 ## Link
