@@ -3,7 +3,12 @@
 ## Insert text
 
 for text insert yuo should do (*). For example: *privet\*
-Bould : **Bold**
+or (_), for examp: \_here_
+
+Bold : **Bold**
+or (**) : **Here there**
+Alternative insert text to use together:
+**_Exemple_\_\_
 
 ## Lists
 
