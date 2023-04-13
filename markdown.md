@@ -17,7 +17,8 @@ Alternative insert text to use together:
 ## Lists
 
 For select unnumbered list use (\*)
-This is try to use another git merge
+This is try to use another git now we are win
+We are wrong about our position in file, now it is working!!
 
 ## Link
 
