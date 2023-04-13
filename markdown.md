@@ -16,6 +16,8 @@ Alternative insert text to use together:
 
 ## Lists
 
+For select unnumbered list use (\*)
+
 ## Link
 
 ## Work with
